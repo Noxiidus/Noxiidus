@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Balázs — aka Noxidus
 
-Penetration tester and security analyst from Hungary 🇭🇺, working both sides of the fence —
-**red team** offensive testing and **blue team** digital forensics.
+**Penetration Tester @ KryloneEsport** · Hungary 🇭🇺
+
+Working both sides of the fence — **red team** offensive testing and **blue team** digital
+forensics.
 
 Breaking into systems and investigating how someone else did it are the same skill viewed from two
 directions. Attacking teaches me what artifacts get left behind; forensics teaches me what an
@@ -96,7 +98,26 @@ Live cryptocurrency price tracking against a public API.
 ### [Weather App](https://github.com/Noxiidus/weather-app) · `HTML/CSS/JS`
 Fully responsive, mobile-friendly weather client.
 
-**freeCodeCamp — Responsive Web Design certification**
+---
+
+## 🎓 Certifications
+
+[![Credly](https://img.shields.io/badge/Verify_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/noxidus)
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| **Google Cloud Cybersecurity Certificate** | Google Cloud | Jul 2026 |
+| **Google AI Professional Certificate** | Google Career Certificates | Jul 2026 |
+| **Google AI Essentials** | Google Career Certificates | Jul 2026 |
+| **Responsive Web Design** | freeCodeCamp | — |
+
+<details>
+<summary>Google AI Professional Certificate — component badges</summary>
+
+AI Fundamentals · AI for App Building · AI for Brainstorming and Planning · AI for Content Creation ·
+AI for Data Analysis · AI for Research and Insights · AI for Writing and Communicating
+
+</details>
 
 ![Responsive Web Design Certification](https://github.com/user-attachments/assets/a1ceaf6a-011e-4357-8a20-5c2bf6803404)
 
@@ -113,6 +134,7 @@ Fully responsive, mobile-friendly weather client.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankara.herho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noxiidus)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/noxidus)
 
 Always up for talking offensive security, forensics, or a good CTF. 🕵️
 
