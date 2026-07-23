@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balázs — aka Noxidus
 
-**Penetration Tester @ KryloneEsport** · Hungary 🇭🇺
+**Penetration Tester** · Hungary 🇭🇺
 
 Working both sides of the fence — **red team** offensive testing and **blue team** digital
 forensics.
