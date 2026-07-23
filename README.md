@@ -71,11 +71,20 @@ is where the actual learning happens.
 
 ## 🧪 Security work
 
-### [tracehound](https://github.com/Noxiidus/tracehound) · `Python` · `Blue Team`
-Linux DFIR triage toolkit. Parses `auth.log` and the utmp family into a single
-UTC-normalised timeline, then applies detection rules for credential attacks, persistence and
-privilege abuse — each mapped to MITRE ATT&CK. Reports as text, JSON, CSV or self-contained HTML.
-Fully typed, tested and CI-checked.
+### [tracehound](https://github.com/Noxiidus/tracehound) · `Python` · `Blue Team` · **flagship**
+
+A Linux DFIR triage toolkit, built from scratch.
+
+Six artifact parsers (`auth.log`, the utmp family, `lastlog`, shell history, cron, systemd
+journal) feed one UTC-normalised timeline. Sixteen detection rules turn it into findings with
+MITRE ATT&CK mappings — credential attacks, persistence, privilege abuse, and anti-forensics
+rules that reason about what is *missing* rather than what is present.
+
+Also includes **multi-host correlation** (lateral movement, patient-zero identification, with
+honest handling of clock drift between machines) and a **dependency-free POSIX collector** that
+measures each host's clock and hashes evidence at collection time.
+
+150+ tests, `mypy --strict`, CI across Python 3.10–3.12, full wiki documentation.
 
 ### [HTB Writeups](https://github.com/Noxiidus/HTB-Writeups) · `Red Team`
 Walkthroughs from Hack The Box machines and challenges — enumeration, exploitation and privilege
