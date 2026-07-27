@@ -2,6 +2,8 @@
 
 **Penetration Tester** · Hungary 🇭🇺
 
+![Profile Views](https://komarev.com/ghpvc/?username=Noxiidus&color=9FEF00&style=for-the-badge&label=Profile+Views)
+
 Working both sides of the fence — **red team** offensive testing and **blue team** digital
 forensics.
 
@@ -144,9 +146,11 @@ Fully responsive, mobile-friendly weather client.
 | Certification | Issuer | Issued |
 |---|---|---|
 | **Google Cloud Cybersecurity Certificate** | Google Cloud | Jul 2026 |
-| **Google AI Professional Certificate** | Google Career Certificates | Jul 2026 |
+| **[Google AI Professional Certificate](https://www.credly.com/badges/1f37596d-2abc-40c0-823d-6886291f4293)** | Google Career Certificates | Jul 2026 |
 | **Google AI Essentials** | Google Career Certificates | Jul 2026 |
-| **Responsive Web Design** | freeCodeCamp | — |
+| **[Responsive Web Design](https://www.freecodecamp.org/certification/noxidus/responsive-web-design)** | freeCodeCamp | — |
+| **[JavaScript Algorithms and Data Structures (v8)](https://www.freecodecamp.org/certification/noxidus/javascript-algorithms-and-data-structures-v8)** | freeCodeCamp | — |
+| **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/noxidus/javascript-algorithms-and-data-structures)** | freeCodeCamp | — |
 
 <details>
 <summary>Google AI Professional Certificate — component badges</summary>
@@ -156,14 +160,18 @@ AI for Data Analysis · AI for Research and Insights · AI for Writing and Commu
 
 </details>
 
-![Responsive Web Design Certification](https://github.com/user-attachments/assets/a1ceaf6a-011e-4357-8a20-5c2bf6803404)
+### Google AI Professional Certificate
+
+![Google AI Professional Certificate](assets/google-ai-professional-certificate.png)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Noxidus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=noxiidus&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxiidus&layout=compact&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noxiidus&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noxiidus&theme=radical)
+![Most-used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noxiidus&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noxiidus&theme=radical&utcOffset=1)
 
 ---
 
