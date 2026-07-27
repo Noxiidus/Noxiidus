@@ -37,12 +37,26 @@ is where the actual learning happens.
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-2E2E2E?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-00979D?style=for-the-badge)
+![Amass](https://img.shields.io/badge/OWASP_Amass-1F6FEB?style=for-the-badge&logo=owasp&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-5A5A5A?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![sqlmap](https://img.shields.io/badge/sqlmap-D9480F?style=for-the-badge)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 **Defensive & Forensics**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-0B7285?style=for-the-badge)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C81D25?style=for-the-badge&logo=mitre&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma-3A7CA5?style=for-the-badge)
+![Timesketch](https://img.shields.io/badge/Timesketch-4285F4?style=for-the-badge)
+![plaso](https://img.shields.io/badge/plaso_(log2timeline)-2C3E50?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-A6120D?style=for-the-badge)
+![radare2](https://img.shields.io/badge/radare2-268BD2?style=for-the-badge)
+![Capstone](https://img.shields.io/badge/Capstone_Engine-4B0082?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Languages**
@@ -61,9 +75,13 @@ is where the actual learning happens.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+**Tools & CI**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-2A6DB0?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -75,16 +93,20 @@ is where the actual learning happens.
 
 A Linux DFIR triage toolkit, built from scratch.
 
-Six artifact parsers (`auth.log`, the utmp family, `lastlog`, shell history, cron, systemd
-journal) feed one UTC-normalised timeline. Sixteen detection rules turn it into findings with
-MITRE ATT&CK mappings — credential attacks, persistence, privilege abuse, and anti-forensics
-rules that reason about what is *missing* rather than what is present.
+**Twelve parsers** — seven log/event sources (`auth.log`, the utmp family, `lastlog`, shell
+history, cron, systemd journal, and plaso super-timelines) plus five *state-artifact* parsers
+(`/etc/passwd`, `/etc/group`, `sudoers`, `authorized_keys`, systemd units) — feed a
+UTC-normalised timeline and a timeless `Fact` model. **20+ detection rules** turn them into
+findings with MITRE ATT&CK mappings: credential attacks, persistence, privilege abuse, backdoor
+accounts and SSH keys, and anti-forensics rules that reason about what is *missing*.
 
-Also includes **multi-host correlation** (lateral movement, patient-zero identification, with
-honest handling of clock drift between machines) and a **dependency-free POSIX collector** that
-measures each host's clock and hashes evidence at collection time.
+Runs the community's **Sigma** rules — a practical subset of the spec compiled onto its own
+detection engine — and **exports to log2timeline/plaso CSV, Timesketch JSONL and Sigma**, so it
+feeds Timesketch and a SIEM, not just its own reports. Plus **multi-host correlation** (lateral
+movement, patient-zero, with honest clock-drift handling) and a **dependency-free POSIX
+collector** that measures each host's clock and hashes evidence at collection time.
 
-150+ tests, `mypy --strict`, CI across Python 3.10–3.12, full wiki documentation.
+250+ tests, `mypy --strict`, `ruff`, CI across Python 3.10–3.12, full wiki documentation.
 
 ### [HTB Writeups](https://github.com/Noxiidus/HTB-Writeups) · `Red Team`
 Walkthroughs from Hack The Box machines and challenges — enumeration, exploitation and privilege
