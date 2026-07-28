@@ -91,6 +91,24 @@ is where the actual learning happens.
 
 ## 🧪 Security work
 
+### [breachload](https://github.com/Noxiidus/breachload) · `Python` · `Red Team` · **flagship**
+
+An autonomous, safety-gated pentest copilot — the offensive counterpart to tracehound.
+
+Point it at an authorized target and it drives the standard toolchain (nmap, whatweb, ffuf,
+nuclei, msfvenom), turns each tool's output into structured state, and walks a box from recon to a
+written report. A **deterministic safety layer** is the whole idea: default-deny scope, a binary
+allowlist, an argv-only injection guard, and risk-classed confirmation gates — generation is
+unrestricted, but anything that touches a target is scope- and risk-gated. That layer is 100%
+test-covered and documented as a frozen contract.
+
+On top of it: an offline payload/technique library, a rule-based next-step engine and data-driven
+attack-chain templates (so it works with **no LLM at all**), a version→CVE knowledge base with NVD
+import, msfvenom and PoC generation with confirm-gated delivery, a live FastAPI/WebSocket
+dashboard, and Markdown/PDF reporting with reproduction steps.
+
+199 tests, `ruff`, CI, a plugin interface for third-party tools, and a full walkthrough.
+
 ### [tracehound](https://github.com/Noxiidus/tracehound) · `Python` · `Blue Team` · **flagship**
 
 A Linux DFIR triage toolkit, built from scratch.
