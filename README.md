@@ -184,15 +184,6 @@ AI for Data Analysis · AI for Research and Insights · AI for Writing and Commu
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noxiidus&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noxiidus&theme=radical)
-![Most-used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noxiidus&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noxiidus&theme=radical&utcOffset=1)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noxidus/)
