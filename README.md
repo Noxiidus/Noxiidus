@@ -165,6 +165,7 @@ Fully responsive, mobile-friendly weather client.
 |---|---|---|
 | **Google Cloud Cybersecurity Certificate** | Google Cloud | Jul 2026 |
 | **[Proofpoint Certified AI Data Security Specialist 2026](https://www.credly.com/badges/37796b5b-6eff-4354-9700-e9be6a37d3ad/public_url)** | Proofpoint | Aug 2026 |
+| **[Pre Security (SEC0)](https://www.credly.com/badges/157f012c-d2f4-4884-8547-eff967b67826/public_url)** | TryHackMe | Aug 2026 |
 | **[Google AI Professional Certificate](https://www.credly.com/badges/1f37596d-2abc-40c0-823d-6886291f4293)** | Google Career Certificates | Jul 2026 |
 | **Google AI Essentials** | Google Career Certificates | Jul 2026 |
 | **[Responsive Web Design](https://www.freecodecamp.org/certification/noxidus/responsive-web-design)** | freeCodeCamp | — |
