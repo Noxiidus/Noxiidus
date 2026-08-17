@@ -129,8 +129,9 @@ collector** that measures each host's clock and hashes evidence at collection ti
 250+ tests, `mypy --strict`, `ruff`, CI across Python 3.10–3.12, full wiki documentation.
 
 ### [HTB Writeups](https://github.com/Noxiidus/HTB-Writeups) · `Red Team`
-Walkthroughs from Hack The Box machines and challenges — enumeration, exploitation and privilege
-escalation, documented end to end.
+Walkthroughs from Hack The Box machines and Pro Labs — enumeration, exploitation and privilege
+escalation, documented end to end. Includes a completed **Mythical Mini Pro Lab** (Mythic C2,
+ADCS abuse, multi-domain AD lateral movement).
 
 ### [HTB Sherlock Writeups](https://github.com/Noxiidus/htb-sherlock-writeups) · `Blue Team`
 DFIR investigations of retired Sherlocks: Linux log forensics, an OpenStack cloud compromise
