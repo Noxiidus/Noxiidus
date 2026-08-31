@@ -162,17 +162,34 @@ Fully responsive, mobile-friendly weather client.
 
 [![Credly](https://img.shields.io/badge/Verify_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/noxidus)
 
+**Security & Network**
+
 | Certification | Issuer | Issued |
 |---|---|---|
 | **[Fortinet NSE 3 Certified in Cybersecurity](https://www.credly.com/badges/d5ab188c-4c90-44b6-85f9-c686a41267d2/public_url)** | Fortinet | Aug 2026 |
 | **[Fortinet FortiGate 7.6 Operator](https://www.credly.com/badges/53149549-7858-4f84-bd4a-5d74009f7d09/public_url)** | Fortinet | Aug 2026 |
 | **[Cybersecurity Fundamentals](https://www.credly.com/badges/f3f9d4f7-c964-4f37-992f-e258560c92e2/public_url)** | IBM SkillsBuild | Aug 2026 |
-| **Google Cloud Cybersecurity Certificate** | Google Cloud | Jul 2026 |
-| **[Proofpoint Certified AI Data Security Specialist 2026](https://www.credly.com/badges/37796b5b-6eff-4354-9700-e9be6a37d3ad/public_url)** | Proofpoint | Aug 2026 |
 | **[Pre Security (SEC0)](https://www.credly.com/badges/157f012c-d2f4-4884-8547-eff967b67826/public_url)** | TryHackMe | Aug 2026 |
+| **Google Cloud Cybersecurity Certificate** | Google Cloud | Jul 2026 |
+
+**AI Security**
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| **[Proofpoint Certified AI Data Security Specialist 2026](https://www.credly.com/badges/37796b5b-6eff-4354-9700-e9be6a37d3ad/public_url)** | Proofpoint | Aug 2026 |
+
+**AI & Data**
+
+| Certification | Issuer | Issued |
+|---|---|---|
 | **[Google AI Professional Certificate](https://www.credly.com/badges/1f37596d-2abc-40c0-823d-6886291f4293)** | Google Career Certificates | Jul 2026 |
 | **Google AI Essentials** | Google Career Certificates | Jul 2026 |
 | **[AI Fundamentals: Foundations for Understanding AI](https://www.credly.com/badges/6070209b-a7bb-4b7f-a931-a5cc3ca2fb1f/public_url)** | IBM SkillsBuild | Aug 2026 |
+
+**Web Development**
+
+| Certification | Issuer | Issued |
+|---|---|---|
 | **[Responsive Web Design](https://www.freecodecamp.org/certification/noxidus/responsive-web-design)** | freeCodeCamp | — |
 | **[JavaScript Algorithms and Data Structures (v8)](https://www.freecodecamp.org/certification/noxidus/javascript-algorithms-and-data-structures-v8)** | freeCodeCamp | — |
 | **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/noxidus/javascript-algorithms-and-data-structures)** | freeCodeCamp | — |
