@@ -111,6 +111,8 @@ dashboard, and Markdown/PDF reporting with reproduction steps.
 
 ### [tracehound](https://github.com/Noxiidus/tracehound) · `Python` · `Blue Team` · **flagship**
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Noxiidus/badge.svg)](https://hub.xerj.org/contributors/Noxiidus)
+
 A Linux DFIR triage toolkit, built from scratch.
 
 **Twelve parsers** — seven log/event sources (`auth.log`, the utmp family, `lastlog`, shell
