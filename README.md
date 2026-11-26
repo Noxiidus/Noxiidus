@@ -170,6 +170,7 @@ Fully responsive, mobile-friendly weather client.
 |---|---|---|
 | **[LFD121: Developing Secure Software](https://www.credly.com/badges/2e4932c9-a1a6-4501-a1e3-8be6848fdbce/public_url)** | The Linux Foundation (OpenSSF) | Nov 2026 |
 | **Cybersecurity Awareness Certified Associate (CAC)** — ID `iyN8hqm9Og` | CertJoin | Nov 2026 |
+| **[Ethical Hacker](https://www.credly.com/badges/7238434b-9513-4d2d-9541-1384c87cc45c/public_url)** | Cisco Networking Academy | Sep 2026 |
 | **[Fortinet NSE 3 Certified in Cybersecurity](https://www.credly.com/badges/d5ab188c-4c90-44b6-85f9-c686a41267d2/public_url)** | Fortinet | Aug 2026 |
 | **[Fortinet FortiGate 7.6 Operator](https://www.credly.com/badges/53149549-7858-4f84-bd4a-5d74009f7d09/public_url)** | Fortinet | Aug 2026 |
 | **[Cybersecurity Fundamentals](https://www.credly.com/badges/f3f9d4f7-c964-4f37-992f-e258560c92e2/public_url)** | IBM SkillsBuild | Aug 2026 |
