@@ -168,6 +168,7 @@ Fully responsive, mobile-friendly weather client.
 
 | Certification | Issuer | Issued |
 |---|---|---|
+| **Cybersecurity Awareness Certified Associate (CAC)** — ID `iyN8hqm9Og` | CertJoin | Nov 2026 |
 | **[Fortinet NSE 3 Certified in Cybersecurity](https://www.credly.com/badges/d5ab188c-4c90-44b6-85f9-c686a41267d2/public_url)** | Fortinet | Aug 2026 |
 | **[Fortinet FortiGate 7.6 Operator](https://www.credly.com/badges/53149549-7858-4f84-bd4a-5d74009f7d09/public_url)** | Fortinet | Aug 2026 |
 | **[Cybersecurity Fundamentals](https://www.credly.com/badges/f3f9d4f7-c964-4f37-992f-e258560c92e2/public_url)** | IBM SkillsBuild | Aug 2026 |
